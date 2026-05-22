@@ -81,6 +81,8 @@ SparkEnergies/
     ├── signup.php               # Secure consumer customer creation controller
     └── logout.php               # Complete session termination pipeline
 
+```
+
 ## 🛠️ Technology Stack
 * **Core Backend Engine:** PHP 8.2+
 * **Database Management System:** MySQL / MariaDB (Structured with InnoDB constraints)
