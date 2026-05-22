@@ -82,10 +82,7 @@ SparkEnergies/
     └── logout.php               # Complete session termination pipeline
 
 ## 🛠️ Technology Stack
-- **Core Backend Engine:** PHP 8.2+
-
-- **Database Management System:** MySQL / MariaDB (Structured with InnoDB constraints)
-
-- **User Interface & Styles:** Bootstrap 5 (Responsive Layout Engine) & Custom CSS
-
-- **Development Toolkit:** Visual Studio Code & Git Version Management Pipeline
+* **Core Backend Engine:** PHP 8.2+
+* **Database Management System:** MySQL / MariaDB (Structured with InnoDB constraints)
+* **User Interface & Styles:** Bootstrap 5 (Responsive Layout Engine) & Custom CSS
+* **Development Toolkit:** Visual Studio Code & Git Version Management Pipeline
